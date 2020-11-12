@@ -1,7 +1,7 @@
 #! /usr/bin/python3
 
 ##Change the following values to customize your ChatBot:
-myBotName = "Chappie the ChatBot"
+myBotName = "vaccineBot"
 botTimeZone = "Asia/Kolkata"  ##See the list full below
 botAvatar = "/static/bot.png" ##This can either be an image in your static folder or a web url to an image
 chatBG = "/static/bg.jpg"  ##This can either be an image in your static folder or a web url to an image
